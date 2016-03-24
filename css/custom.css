@@ -193,7 +193,10 @@ a.navbar-brand {
         padding-right: 10px;
     }
     
-    #banner_video {
+}
+
+@media screen and (max-width: 1023px) {
+	#banner_video {
 		margin-top: 35px;
 	}
 }
