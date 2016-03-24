@@ -1,3 +1,4 @@
+	<div id="scrolltop"><img src="<?php echo HOME; ?>img/scroll_top.png" alt="Clicca qui per tornare sopra" /></div>
 	<footer>
 		<div class="container">
 			<div class="row">

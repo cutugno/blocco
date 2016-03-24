@@ -292,6 +292,14 @@ a.navbar-brand {
 
 /* footer */
 
+#scrolltop{	
+	position:fixed;
+	bottom:75px;
+	right:40px;
+	cursor:pointer;
+	display:none;
+}
+
 footer {
 	background:#e6f4f6;
 	padding:25px 0px;

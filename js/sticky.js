@@ -1,19 +1,19 @@
 	
-function stick(element) {
+function stick(element,t,b) {
 	$.lockfixed(element,
-		{offset: {top: 10, bottom: 10}}
+		{offset: {top: t, bottom: b}}
 	);
 }
 
 $(function() {
-	stick("#sticky_aderisci");
+	stick("#sticky_aderisci",10,100);
 });
 
 $(window).resize(function() {
 	var w=$(window).width();
 	console.log(w);
 	if (w>=768){
-		stick("#sticky_aderisci");
+		stick("#sticky_aderisci",10,10);
 	}
 });
-		
+
