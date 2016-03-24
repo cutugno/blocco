@@ -1,4 +1,4 @@
-<div class="alert alert-aderisci text-center" role="alert">
+<div class="alert alert-aderisci text-center" role="alert" id="sticky_aderisci">
 	<h2>ADERISCI ALL'INIZIATIVA</h2>
 	<p class="small">Se sei un dipendente pubblico puoi aderire all'iniziativa compilando la scheda di adesione online. Riceverai via mail:<br>
 					 Modulo Diffida - potrai chiedere un indennizzo/risarcimento non inferiore a 8.800,00 &euro;, nonché l’esecuzione immediata e corretta della sentenza della Corte Costituzionale.<br>
