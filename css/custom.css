@@ -1,8 +1,20 @@
 /* generici */
 
 p {
+	font-family: 'Lato', sans-serif;
+	font-size:18px;
+	line-height:26px;
 	text-align: justify;
 }
+
+.spacer-10 {
+	margin: 5px 0;
+}
+
+.spacer-20 {
+	margin: 10px 0;
+}
+
 
 /* menu */
 
@@ -37,27 +49,129 @@ header {
 #banner {
 	background:#4d8963;
 	border-bottom:4px solid #ccc;
-	padding:50px 0px;
+	padding:35px 0px;
 }
 
 #banner h1{
-	color:#fcf3c5;
+	color:#ffefa0;
 	font-family: 'Lato', sans-serif;
-	font-size:38px;
+	font-size:34px;
 	font-weight:bold;
-	line-height:50px;
+	line-height:48px;
 	margin-top:0px;
-	margin-bottom:30px;
+	margin-bottom:10px;
 }
 
 #banner p {
-	color:white;
-	font-family: 'Lato', sans-serif;
-	font-size:18px;
-	line-height:26px;
+	color:white;	
+}
+
+#banner_left {
+	padding-right: 70px;
 }
 
 #banner_video {
 	padding-top: 7px;
 	border: 2px solid #fff;
+}
+
+/* main */
+
+#main_left {
+	padding-top: 20px;
+}
+
+#main p {
+	color: #4d8963;
+}
+
+#main p.small {
+	font-size: 13px;
+	line-height: 21px;
+	color: #333;
+}
+
+.alert-aderisci {
+	background-color: #e6f4f6;
+	border-color: transparent;
+}
+
+.alert-aderisci h2 {
+	color: #4c78ee;
+	font-weight: 700;
+	margin-top: 0px;
+}
+
+.alert-aderisci p {
+	text-align: center;
+}
+
+.alert-aderisci a {
+	color: #4c78ee;
+}
+
+.alert-aderisci .btn-aderisci {
+	margin: 10px auto;
+}
+
+.btn-aderisci {
+  display: block;
+  border-radius: 0;
+  color: #fff;
+  background-color: #e7503d;
+  border-color: #e7503d;
+  padding: 10px 18px;
+  font-size: 22px;
+}
+.btn-aderisci:focus,
+.btn-aderisci.focus {
+  color: #333;
+  background-color: #e7503d;
+  border-color: #e7503d;
+}
+.btn-aderisci:hover {
+  color: #fff;
+  background-color: #ed1c24;
+  border-color: #ed1c24;
+}
+.btn-aderisci:active,
+.btn-aderisci.active,
+.open > .dropdown-toggle.btn-aderisci {
+  color: #fff;
+  background-color: #ed1c24;
+  border-color: #ed1c24;
+}
+.btn-aderisci:active:hover,
+.btn-aderisci.active:hover,
+.open > .dropdown-toggle.btn-aderisci:hover,
+.btn-aderisci:active:focus,
+.btn-aderisci.active:focus,
+.open > .dropdown-toggle.btn-aderisci:focus,
+.btn-aderisci:active.focus,
+.btn-aderisci.active.focus,
+.open > .dropdown-toggle.btn-aderisci.focus {
+  color: #fff;
+  background-color: #ed1c24;
+  border-color: #ed1c24;
+}
+.btn-aderisci:active,
+.btn-aderisci.active,
+.open > .dropdown-toggle.btn-aderisci {
+  background-image: none;
+}
+.btn-aderisci.disabled:hover,
+.btn-aderisci[disabled]:hover,
+fieldset[disabled] .btn-aderisci:hover,
+.btn-aderisci.disabled:focus,
+.btn-aderisci[disabled]:focus,
+fieldset[disabled] .btn-aderisci:focus,
+.btn-aderisci.disabled.focus,
+.btn-aderisci[disabled].focus,
+fieldset[disabled] .btn-aderisci.focus {
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-aderisci .badge {
+  color: #fff;
+  background-color: #333;
 }
