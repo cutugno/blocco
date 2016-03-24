@@ -1,0 +1,63 @@
+/* generici */
+
+p {
+	text-align: justify;
+}
+
+/* menu */
+
+header {
+	border-top:4px solid #586f75;
+	border-bottom:4px solid #586f75;
+	min-height:50px;
+	padding:10px 0px 20px;
+}
+
+.navbar-brand {
+	padding-top: 0px;
+}
+ 
+.navbar-default {
+	border-color: transparent;
+}
+
+.navbar-right {
+	margin-top:30px;
+	margin-bottom:-30px;
+}
+
+.navbar-right a {
+	font-family: 'Lato';
+	font-size: 16px;
+	color: #434343;
+}
+
+/* banner */
+
+#banner {
+	background:#4d8963;
+	border-bottom:4px solid #ccc;
+	padding:50px 0px;
+}
+
+#banner h1{
+	color:#fcf3c5;
+	font-family: 'Lato', sans-serif;
+	font-size:38px;
+	font-weight:bold;
+	line-height:50px;
+	margin-top:0px;
+	margin-bottom:30px;
+}
+
+#banner p {
+	color:white;
+	font-family: 'Lato', sans-serif;
+	font-size:18px;
+	line-height:26px;
+}
+
+#banner_video {
+	padding-top: 7px;
+	border: 2px solid #fff;
+}
