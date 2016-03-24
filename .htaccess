@@ -1,0 +1,12 @@
+# ErrorDocument 404 http://tlctel.com/404/
+
+RewriteEngine On
+
+# RewriteCond %{HTTP_HOST} ^tlctel.com [NC]
+# RewriteRule ^(.*)$ http://www.tlctel.com/$1
+
+
+RewriteRule ^riferimenti-normativi/rif-1$ index.php?p=rif1
+RewriteRule ^riferimenti-normativi/rif-2$ index.php?p=rif2
+RewriteRule ^categorie-interessate$ index.php?p=categorie
+RewriteRule ^news$ index.php?p=news [L]
