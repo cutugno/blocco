@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6" id="banner_left">
-					<h1>BLOCCO STIPENDI STATALI:<br>AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
+					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
 					<p>Il Codacons avvia un'iniziativa in favore dei dipendenti pubblici costretti a subire il blocco degli stipendi dal 2010. L'obiettivo è il rinnovo dei contratti collettivi e un indennizzo/risarcimento non inferiore a 8.800 &euro;</p>
 					<br>
 					<button class="btn btn-aderisci"><strong>ADERISCI</strong></button>

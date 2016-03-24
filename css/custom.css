@@ -42,6 +42,13 @@ span.bold {
 	margin: 25px 0;
 }
 
+@media screen and (max-width: 767px) {
+	p.small {
+		font-size:16px;
+		line-height: 23px;
+	}
+}
+
 
 /* menu */
 
@@ -92,11 +99,6 @@ a.navbar-brand {
 	color: #4d8963 !important
 }
 
-.dropdown:hover .dropdown-menu {
-    display: block;
-    margin-top: 0; 
-}
-
 .dropdown-menu {
 	width:242px;
 	top:10px;
@@ -112,6 +114,7 @@ a.navbar-brand {
 	padding-left:16.3px;
 }
 
+
 @-moz-document url-prefix() {
     .dropdown-menu>li>a {
         padding-left:19px;
@@ -125,6 +128,29 @@ a.navbar-brand {
 .dropdown-menu>li>a:hover {
 	background-color: transparent;
 	color: #4d8963;
+}
+
+@media screen and (max-width: 767px) {
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		border-color: transparent;
+		height: 170px;
+		padding-top: 20px;
+	}
+	.dropdown-menu {
+		display:none;
+		min-width:160px;
+		top:100%;
+		right:0%;
+		border: none;
+		box-shadow: none;
+	}
+}
+
+@media screen and (min-width: 768px) {	
+	.dropdown:hover .dropdown-menu {
+		display: block;
+		margin-top: 0; 
+	}
 }
 
 /* banner */
@@ -162,6 +188,16 @@ a.navbar-brand {
 	font-size: 32px;
 }
 
+@media screen and (max-width: 767px) {
+    #banner_left {
+        padding-right: 10px;
+    }
+    
+    #banner_video {
+		margin-top: 35px;
+	}
+}
+
 /* main blocco 1 */
 
 #main_left {
@@ -181,6 +217,38 @@ a.navbar-brand {
 	color: #e7503d;
 	margin-top: 0px;
 }
+
+#main_left.categorie ul {
+	margin-top: 40px;
+}
+
+@media screen and (max-width: 767px) {
+	#main_left.categorie, #main_left.news {
+		padding-top: 20px;
+	}
+	
+	#main_left.categorie ul {
+		margin-top: 20px;
+	}
+	
+	#main_left li {
+		font-size: 16px;
+	}
+}
+
+
+/* main blocco 2 */
+
+#main_avvia h3 {
+	color: #e7503d;
+}
+
+#main_avvia p.small {
+	color: #4d8963;
+	line-height: 19px;
+}
+
+/* aderisci */
 
 .alert-aderisci {
 	background-color: #e6f4f6;
@@ -204,19 +272,22 @@ a.navbar-brand {
 	color: #4c78ee;
 }
 
+.alert-aderisci a.verifica {
+	color: #333;
+}
+
+.alert-aderisci a.verifica:hover {
+	color: #4d8963;
+}
+
 .alert-aderisci .btn-aderisci {
 	margin: 16px auto;
 }
 
-/* main blocco 2 */
-
-#main_avvia h3 {
-	color: #e7503d;
-}
-
-#main_avvia p.small {
-	color: #4d8963;
-	line-height: 19px;
+@media screen and (max-width: 767px) {
+	.alert-aderisci p {
+		line-height: 20px !important;
+	}
 }
 
 /* footer */
@@ -254,6 +325,12 @@ footer .xsmall {
 	color: #124f7a;
 	font-size:24px;
 	font-weight: 700;
+}
+
+@media screen and (max-width: 767px) {
+	footer .footer_col {
+		margin-bottom: 25px;
+	}
 }
 
 /* bottoni custom */

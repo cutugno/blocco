@@ -19,7 +19,6 @@
 					<p class="small">L’iniziativa è rivolta contro l’ARAN (Agenzia per la rappresentanza negoziale delle PP. AA.), al Ministero del Lavoro e delle Politiche Sociali, al Ministero dell'economia e delle Finanze, alla Presidenza del Consiglio dei Ministri e al Ministero per la Semplificazione e la Pubblica Amministrazione.
 									 Possono aderire all’iniziativa tutti i dipendenti delle amministrazioni pubbliche colpiti dal blocco degli aumenti stipendiali, che appartengono o sono appartenuti dopo il 2010 ai ruoli delle Pubbliche Amministrazioni il cui trattamento economico era regolato dai CCNL bloccati dall’art. 9 co.17 del dl. 78 del 2010 conv. dall’art 1 co.1 della legge 307.2010 n. 122, di cui all’elenco (indicativo ma non esaustivo come pubblicato in GU n. 227 del 30.9.2015 delle pubbliche amministrazioni ove effettivamente assoggettate al blocco di cui sopra ) che segue:
 					</p>
-					<br><br>
 					<ul><li>
 						Amministrazioni
 						centrali 
