@@ -55,6 +55,10 @@ body {
 
 /* formattazione input */
 
+.general_form label.lb, .general_form .inputs i {
+	padding-left: 4px;
+}
+
 .general_form .input_wrapper input.text, .general_form .inputs select {
 	height: 30px;
 	padding: 5px 10px;
@@ -106,10 +110,10 @@ input.messaggio:hover, input.messaggio:active {
 		width:98%;
 	}
 	.general_form .input_wrapper {
-		width:90%;
+		width:98%;
 	}
 	
 	.general_form .inputs select {
-		width: 91%;
+		width: 100%;
 	}
 }
