@@ -14,6 +14,7 @@ body {
 
 .title_wrapper, .title_wrapper_left, .title_wrapper_right {
 	background:none;
+	height:1px;
 }
 
 .sct { /* sfondo form */
@@ -69,6 +70,10 @@ body {
 	-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
 	transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
 	width: 100%;
+}
+
+.general_form .inputs select {
+	margin-top: 2px;
 }
 
 input.messaggio {
