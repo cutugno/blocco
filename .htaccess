@@ -9,4 +9,7 @@ RewriteEngine On
 RewriteRule ^riferimenti-normativi/rif-1$ index.php?p=rif1
 RewriteRule ^riferimenti-normativi/rif-2$ index.php?p=rif2
 RewriteRule ^categorie-interessate$ index.php?p=categorie
-RewriteRule ^news$ index.php?p=news [L]
+RewriteRule ^news$ index.php?p=news
+RewriteRule ^aderisci$ index.php?p=aderisci
+RewriteRule ^privacy$ index.php?p=privacy
+RewriteRule ^cookie$ index.php?p=cookie [L]

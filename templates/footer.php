@@ -13,7 +13,12 @@
 					<a href="mailto:info@codacons.it" class="link">info@codacons.it</a>
 					<a href="http://www.codacons.it" target="_blank" class="link">www.codacons.it</a>
 				</div>
-				<div class="col-sm-6 col-sm-offset-2 footer_col">
+				<div class="col-sm-2 footer_col">
+					<h4>Info</h4>
+					<a href="<?php echo HOME;?>privacy" class="link">Privacy</a>
+					<a href="<?php echo HOME;?>cookie" class="link">Cookie</a>
+				</div>
+				<div class="col-sm-6 footer_col">
 					<h4>Call Center Nazionale</h4>
 						<p class="phone">892-007</p>
 						<p class="xsmall">Rete fissa scatto 30 cent al minuto 76 cent, TIM scatto 16 cent al minuto 94 cent, VODAFONE scatto 16 cent al minuto 94 cent, WIND scatto 15 cent al minuto 97 cent, TRE scatto 16 cent al minuto 94 cent<br>

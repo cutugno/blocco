@@ -107,6 +107,7 @@ a.navbar-brand {
 	padding-bottom: 20px;
 	background-color: #fff;
 	border: 1px solid #4d8963;
+	border-radius: 0px;
 	box-shadow: none;
 }
 
@@ -184,7 +185,7 @@ a.navbar-brand {
 	border: 2px solid #fff;
 }
 
-#banner.categorie h1, #banner.news h1 {
+#banner.categorie h1, #banner.news h1, #banner.aderisci h1, #banner.privacy h1, #banner.cookie h1, #banner.riferimenti h1 {
 	font-size: 32px;
 }
 
@@ -212,11 +213,11 @@ a.navbar-brand {
 	color: #333;
 }
 
-#main_left.categorie, #main_left.news {
+#main_left.categorie, #main_left.news, #main_left.aderisci, #main_left.privacy, #main_left.cookie, #main_left.riferimenti {
 	padding-top: 0px;
 }
 
-#main_left.categorie h3, #main_left.news h3 {
+#main_left.categorie h3, #main_left.news h3, #main_left.aderisci h3, #main_left.privacy h3, #main_left.cookie h3,#main_left.riferimenti h3 {
 	color: #e7503d;
 	margin-top: 0px;
 }
@@ -226,7 +227,7 @@ a.navbar-brand {
 }
 
 @media screen and (max-width: 767px) {
-	#main_left.categorie, #main_left.news {
+	#main_left.categorie, #main_left.news, #main_left.aderisci, #main_left.privacy, #main_left.categorie, #main_left.riferimenti {
 		padding-top: 20px;
 	}
 	
@@ -251,7 +252,21 @@ a.navbar-brand {
 	line-height: 19px;
 }
 
-/* aderisci */
+/* pagina aderisci */
+#form_aderisci {
+	width:100%;
+	height: 1500px;
+	border: none;
+}
+
+@media screen and (max-width: 767px) {
+	#form_aderisci {
+		height: 3000px;
+	}
+}
+
+
+/* template aderisci */
 
 .alert-aderisci {
 	background-color: #e6f4f6;
@@ -301,6 +316,7 @@ a.navbar-brand {
 	right:40px;
 	cursor:pointer;
 	display:none;
+	z-index: 1000;
 }
 
 footer {
@@ -406,4 +422,12 @@ fieldset[disabled] .btn-aderisci.focus {
 .btn-aderisci .badge {
   color: #fff;
   background-color: #333;
+}
+
+.btn-aderisci a, .btn-aderisci a:hover, .btn-aderisci a:focus, .btn-aderisci a:link {
+	color: #fff;
+}
+
+.btn-aderisci a:hover {
+	text-decoration: none;
 }

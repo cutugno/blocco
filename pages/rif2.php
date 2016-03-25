@@ -1,4 +1,4 @@
-	<div id="banner" class="news">
+	<div id="banner" class="riferimenti">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
@@ -14,7 +14,7 @@
 	<div id="main">
 		<div class="container">
 			<div class="row"> <!-- main blocco 1 -->
-				<div class="col-sm-6 categorie" id="main_left">
+				<div class="col-sm-6 riferimenti" id="main_left">
 					<h3>rif.2</h3>
 				</div>
 				<div class="col-sm-6">

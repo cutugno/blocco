@@ -25,6 +25,15 @@
 			$cont="news";
 			$active3="active";
 			break;
+		case "aderisci":
+			$cont="aderisci";
+			break;
+		case "privacy":
+			$cont="privacy";
+			break;
+		case "cookie":
+			$cont="cookie";
+			break;
 	}
 
 	require_once('templates/open.php');

@@ -1,4 +1,4 @@
-	<div id="banner" class="riferimenti">
+	<div id="banner" class="aderisci">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
@@ -14,17 +14,12 @@
 	<div id="main">
 		<div class="container">
 			<div class="row"> <!-- main blocco 1 -->
-				<div class="col-sm-6 riferimenti" id="main_left">
-					<h3>rif.1</h3>
-				</div>
-				<div class="col-sm-6">
-					<?php require_once ('templates/aderisci.php'); ?>
+				<div class="col-xs-12 aderisci" id="main_left">
+					<h3>aderisci</h3>
+					<iframe id="form_aderisci" src="http://www.termilcons.net/index.php?pagina=page_publicForm&idForm=467&css=1&access=ok"></iframe>
 				</div>
 			</div><!-- /main blocco 1 -->			
 		</div>	
 		
-		<div class="row spacer-50"></div>
-		<div class="row spacer-50"></div>
-		<div class="row spacer-20"></div>
-		<div class="row spacer-20"></div>
+
 	</div>	

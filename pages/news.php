@@ -14,7 +14,7 @@
 	<div id="main">
 		<div class="container">
 			<div class="row"> <!-- main blocco 1 -->
-				<div class="col-sm-6 categorie" id="main_left">
+				<div class="col-sm-6 news" id="main_left">
 					<h3>news</h3>
 				</div>
 				<div class="col-sm-6">
