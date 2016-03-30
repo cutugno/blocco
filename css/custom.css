@@ -69,6 +69,7 @@ a.navbar-brand {
  
 .navbar-default {
 	border-color: transparent;
+	background-color: #fff;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
