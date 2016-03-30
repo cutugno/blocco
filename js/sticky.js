@@ -5,8 +5,11 @@ function stick(element,t,b) {
 	);
 }
 
+
 $(function() {
-	stick("#sticky_aderisci",10,100);
+	if (w>=768){
+		stick("#sticky_aderisci",10,100);
+	}
 });
 
 $(window).resize(function() {
@@ -16,4 +19,5 @@ $(window).resize(function() {
 		stick("#sticky_aderisci",10,10);
 	}
 });
+
 
