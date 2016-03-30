@@ -21,8 +21,8 @@
 			$cont="categorie";
 			$active2="active";
 			break;
-		case "news":
-			$cont="news";
+		case "rassegna":
+			$cont="rassegna";
 			$active3="active";
 			break;
 		case "aderisci":

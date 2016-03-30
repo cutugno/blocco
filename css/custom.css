@@ -265,6 +265,26 @@ a.navbar-brand {
 	}
 }
 
+/* rassegna stampa */
+
+div.news a {
+	color: #4d8963;
+}
+
+div.news a:hover, div.news a:active, div.news a:focus {
+	text-decoration: none;
+}
+
+div.news p.data {
+	font-size: 13px;
+	color: #777;
+	margin-bottom: 0px;
+}
+
+div.news p.titolo {
+	padding-bottom: 10px;
+}
+
 
 /* template aderisci */
 
