@@ -20,7 +20,7 @@
 				  <a href="#" class="dropdown-toggle <?php echo $active1; ?>" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">RIFERIMENTI NORMATIVI &nbsp;<i class="fa fa-angle-down"></i></a>
 				  <ul class="dropdown-menu">
 					<li class="color hidden-xs"><a href="#">RIFERIMENTI NORMATIVI &nbsp;<i class="fa fa-angle-down"></i></a></li>
-					<li><a href="<?php echo HOME;?>riferimenti-normativi/rif-1">rif. 1</a></li>
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/sentenza-corte-costituzionale-178_2015">Sentenza C.C. n.178/2015</a></li>
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/rif-2">rif. 2</a></li>					
 				  </ul>
 				</li>
