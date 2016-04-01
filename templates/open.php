@@ -20,6 +20,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link href="<?php echo HOME;?>css/work/custom.css" rel="stylesheet">
 	<!--<link href="<?php echo HOME;?>css/style.min.css" rel="stylesheet">-->
+	<link href="<?php echo HOME;?>css/jquery-eu-cookie-law-popup.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="eupopup">
