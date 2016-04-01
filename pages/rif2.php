@@ -34,7 +34,7 @@
 						5. Per l'anno 1998 le disposizioni di cui al presente articolo si applicano anche ai fini dell'adeguamento retributivo dei dirigenti dello Stato incaricati della direzione di uffici dirigenziali di livello generale o comunque di funzioni di analogo livello.<br>
 						6. Fino alla data di entrata in vigore dei contratti di cui all'articolo 24 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, sono prorogate le disposizioni di cui all'articolo 1 della legge 2 ottobre 1997, n. 334. A tal fine è autorizzata la spesa di lire 37 miliardi annue a decorrere dall'anno 1999., Palazzo della Consulta, il 24 giugno 2015.<br>
 					</p>
-					<p class="small"><u><a href="http://www.camera.it/parlam/leggi/98448l.htm" target="_blank">Leggi il testo integrale della legge</a></u> </p>
+					<p class="small"><a href="http://www.camera.it/parlam/leggi/98448l.htm" target="_blank">Leggi il testo integrale della legge</a></p>
 				</div>
 				<div class="col-sm-6">
 					<?php require_once ('templates/aderisci.php'); ?>
