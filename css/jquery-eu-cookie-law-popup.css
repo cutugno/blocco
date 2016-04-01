@@ -122,3 +122,34 @@ body .eupopup-style-compact .eupopup-buttons {
 body .eupopup-style-compact .eupopup-button {
 	margin: 0 5px;
 }
+
+
+@media screen and (max-width: 767px) {
+	.eupopup-container {
+		background-color: rgba(255, 255, 255, 0.9);
+	}
+	
+	.eupopup-head {
+		color: #000;
+	}
+	
+	.eupopup-body {
+		color: #333;
+	}
+	
+	.eupopup-button_1, 
+	.eupopup-button_2 {
+		color: #4d8963;
+	}
+	
+	.eupopup-button:hover,
+	.eupopup-button:focus {
+		color: #4d8963;
+	}
+	
+	.eupopup-closebutton,
+	.eupopup-closebutton:hover,
+	.eupopup-closebutton:active {
+		color: #000;
+	}
+}
