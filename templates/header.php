@@ -21,7 +21,8 @@
 				  <ul class="dropdown-menu">
 					<li class="color hidden-xs"><a href="#">RIFERIMENTI NORMATIVI &nbsp;<i class="fa fa-angle-down"></i></a></li>
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/sentenza-corte-costituzionale-178_2015">Sentenza C.C. n.178/2015</a></li>
-					<li><a href="<?php echo HOME;?>riferimenti-normativi/rif-2">rif. 2</a></li>					
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/decreto-legge-448_1998">DL 448/1998</a></li>					
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/i-presupposti">I presupposti</a></li>					
 				  </ul>
 				</li>
 				<li><a href="<?php echo HOME;?>categorie-interessate" class="<?php echo $active2; ?>">CATEGORIE INTERESSATE</a></li>

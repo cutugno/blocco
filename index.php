@@ -17,6 +17,10 @@
 			$cont="rif2";
 			$active1="active";
 			break;
+		case "rif3":
+			$cont="rif3";
+			$active1="active";
+			break;
 		case "categorie":
 			$cont="categorie";
 			$active2="active";

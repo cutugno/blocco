@@ -123,7 +123,7 @@
 						<span class="tabul"></span>8) dichiara non fondate le questioni di legittimità costituzionale dell’art. 16, comma 1, lettera b), del d.l. n. 98 del 2011, come specificato dall’art. 1, comma 1, lettera a), primo periodo, del d.P.R. n. 122 del 2013, con riguardo alla limitazione dei trattamenti economici complessivi dei singoli dipendenti, del trattamento accessorio, degli effetti economici delle progressioni di carriera, dall’art. 1, comma 456, della legge n. 147 del 2013, con riguardo alla limitazione dei trattamenti accessori, dall’art. 1, comma 1, lettera c), primo periodo, del d.P.R. n. 122 del 2013, e dall’art. 1, comma 453, della legge n. 147 del 2013, con riguardo alla sospensione delle procedure contrattuali e negoziali per la parte economica per il periodo 2013-2014, promosse, in riferimento agli artt. 2, 3, primo comma, 36, primo comma, e 53, primo e secondo comma, della Costituzione, dal Tribunale ordinario di Ravenna, in funzione di giudice del lavoro, con l’ordinanza di rimessione indicata in epigrafe.<br><br>
 						<span class="tabul"></span>Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 24 giugno 2015.
 					</p>
-					<p class="small"><u><a href="http://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2015&numero=178" target="_blank">Leggi il testo completo della sentenza</a></u></p>
+					<p class="small"><u><a href="http://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2015&numero=178" target="_blank">Leggi il testo integrale della sentenza</a></u> </p>
 				</div>
 				<div class="col-sm-6">
 					<?php require_once ('templates/aderisci.php'); ?>
