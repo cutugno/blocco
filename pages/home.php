@@ -33,7 +33,7 @@
 			</div><!-- /main blocco 1 -->
 			<div class="row" id="main_avvia"> <!-- main blocco 2 -->
 				<div class="col-xs-12">
-					<h3>CODACONS AVVIA L'AZIONE COLLETTIVA</h3>
+					<h3>GLI OBIETTIVI DELL'AZIONE COLLETTIVA</h3>
 				</div>
 				<div class="col-xs-12 spacer-10"></div>
 				<div class="col-sm-4">
@@ -47,7 +47,7 @@
 				</div>
 				<div class="col-sm-4">
 					<p class="lead"><strong>RINNOVO</strong></p>
-					<p class="small">Rinnovo immediato dei contratti collettivi per il personale pubblico <span class="bold">dipendete dal primo gennaio 2016</span>, obbligo direttamente scaturente dalla sentenza della Consulta.</p>
+					<p class="small">Rinnovo immediato dei contratti collettivi per il personale pubblico dipendente, obbligo direttamente scaturente dalla sentenza della Consulta.</p>
 				</div>
 			</div><!-- /main blocco 2 -->
 		</div>	
