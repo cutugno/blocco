@@ -27,7 +27,7 @@
 				</li>
 				<li class="dropdown clearfix visible-xs-block">
 				  <a href="#" class="dropdown-toggle <?php echo $active1; ?>">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a>
-				  <ul class="dropdown-menu" style="display:block; position:relative">
+				  <ul class="dropdown-menu" id="menu_small">
 					<li class="color hidden-xs text-right" id="presupposti"><a href="#">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a></li>
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/sentenza-corte-costituzionale-178_2015">Sentenza C.C. n.178/2015</a></li>
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/decreto-legge-448_1998">DL 448/1998</a></li>					
