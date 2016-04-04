@@ -1,6 +1,6 @@
 <?php
 
-	define ('HOME', 'http://'.$_SERVER['SERVER_NAME'].'/');
+	define ('HOME', 'http://blocco.pc/');
 
 	$active1=$active2=$active3="";
 	$p=isset($_GET['p']) ? $_GET['p'] : "home";
