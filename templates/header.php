@@ -25,7 +25,7 @@
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/risarcimento-danni">Risarcimento danni</a></li>					
 				  </ul>
 				</li>
-				<li class="dropdown visible-xs-block">
+				<li class="dropdown clearfix visible-xs-block">
 				  <a href="#" class="dropdown-toggle <?php echo $active1; ?>">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a>
 				  <ul class="dropdown-menu" style="display:block; position:relative">
 					<li class="color hidden-xs text-right" id="presupposti"><a href="#">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a></li>
