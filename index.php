@@ -8,8 +8,8 @@
 	switch ($p) {
 		case "home":
 			$cont="home";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | campagna promossa da Codacons";
+			$metad="Il Codacons avvia una campagna in favore dei dipendenti pubblici contro il blocco degli stipendi per chiedere il rinnovo dei contratti ed il risarcimento";
 			break;
 		case "rif1":
 			$cont="rif1";
@@ -48,13 +48,13 @@
 			break;
 		case "privacy":
 			$cont="privacy";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | campagna promossa da Codacons";
+			$metad="Il Codacons avvia una campagna in favore dei dipendenti pubblici contro il blocco degli stipendi per chiedere il rinnovo dei contratti ed il risarcimento";
 			break;
 		case "cookie":
 			$cont="cookie";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | campagna promossa da Codacons";
+			$metad="Il Codacons avvia una campagna in favore dei dipendenti pubblici contro il blocco degli stipendi per chiedere il rinnovo dei contratti ed il risarcimento";
 			break;
 	}
 
