@@ -7,7 +7,7 @@ RewriteEngine On
 
 
 RewriteRule ^riferimenti-normativi/sentenza-corte-costituzionale-178_2015$ index.php?p=rif1
-RewriteRule ^riferimenti-normativi/decreto-legge-448_1998$ index.php?p=rif2
+RewriteRule ^riferimenti-normativi/legge-adeguamenti-stipendi-pubblica-amministrazione$ index.php?p=rif2
 RewriteRule ^riferimenti-normativi/risarcimento-danni$ index.php?p=rif3
 RewriteRule ^categorie-interessate$ index.php?p=categorie
 RewriteRule ^rassegna-stampa$ index.php?p=rassegna
