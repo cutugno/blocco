@@ -2,10 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title><?php echo $metat; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="<?php echo $metat; ?>">
 	<meta name="description" content="<?php echo $metad; ?>">
+	
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="<?php echo $metat; ?>">
+	<meta name="twitter:description" content="<?php echo $metad; ?>">
+	<meta name="twitter:image" content="<?php echo HOME;?>img/logo_codacons.jpg">
+
+	<!-- Open Graph data -->
+	<meta property="og:title" content="<?php echo $metat; ?>" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://bloccostipendi.codacons.it" />
+	<meta property="og:image" content="<?php echo HOME;?>img/logo_codacons.jpg" />
+	<meta property="og:description" content="<?php echo $metad; ?>" /> 
+	<meta property="og:site_name" content="Codacons" />
+	
+	<title><?php echo $metat; ?></title>
 
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
