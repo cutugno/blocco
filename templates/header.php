@@ -16,13 +16,22 @@
 			<div class="collapse navbar-collapse" id="menu">
 			  
 			  <ul class="nav navbar-nav navbar-right">				
-				<li class="dropdown">
-				  <a href="#" class="dropdown-toggle <?php echo $active1; ?>" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">RIFERIMENTI NORMATIVI &nbsp;<i class="fa fa-angle-down"></i></a>
+				<li class="dropdown hidden-xs">
+				  <a href="#" class="dropdown-toggle <?php echo $active1; ?>" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a>
 				  <ul class="dropdown-menu">
-					<li class="color hidden-xs"><a href="#">RIFERIMENTI NORMATIVI &nbsp;<i class="fa fa-angle-down"></i></a></li>
+					<li class="color hidden-xs text-right" id="presupposti"><a href="#">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a></li>
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/sentenza-corte-costituzionale-178_2015">Sentenza C.C. n.178/2015</a></li>
 					<li><a href="<?php echo HOME;?>riferimenti-normativi/decreto-legge-448_1998">DL 448/1998</a></li>					
-					<li><a href="<?php echo HOME;?>riferimenti-normativi/i-presupposti">I presupposti</a></li>					
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/risarcimento-danni">Risarcimento danni</a></li>					
+				  </ul>
+				</li>
+				<li class="dropdown visible-xs-block">
+				  <a href="#" class="dropdown-toggle <?php echo $active1; ?>">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a>
+				  <ul class="dropdown-menu" style="display:block; position:relative">
+					<li class="color hidden-xs text-right" id="presupposti"><a href="#">I PRESUPPOSTI &nbsp;<i class="fa fa-angle-down"></i></a></li>
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/sentenza-corte-costituzionale-178_2015">Sentenza C.C. n.178/2015</a></li>
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/decreto-legge-448_1998">DL 448/1998</a></li>					
+					<li><a href="<?php echo HOME;?>riferimenti-normativi/risarcimento-danni">Risarcimento danni</a></li>					
 				  </ul>
 				</li>
 				<li><a href="<?php echo HOME;?>categorie-interessate" class="<?php echo $active2; ?>">CATEGORIE INTERESSATE</a></li>
