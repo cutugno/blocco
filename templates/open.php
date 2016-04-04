@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Blocco Stipendi CODACONS</title>
+    <title><?php echo $metat; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="<?php echo $metat; ?>">
 	<meta name="description" content="<?php echo $metad; ?>">
