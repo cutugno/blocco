@@ -14,37 +14,37 @@
 		case "rif1":
 			$cont="rif1";
 			$active1="active";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | Sentenza della Corte Costituzionale";
+			$metad="Sentenza della Corte Costituzionale che ha stabilito che il blocco dei contratti del pubblico impiego è illegittimo e incostituzionale";
 			break;
 		case "rif2":
 			$cont="rif2";
 			$active1="active";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | Legge su adeguamenti retributivi";
+			$metad="Legge che stabilisce gli adeguamenti retributivi in favore dei dipendenti della Pubblica Amministrazione";
 			break;
 		case "rif3":
 			$cont="rif3";
 			$active1="active";
-			$metat="";
-			$metad="";
+			$metat=" Blocco Stipendi Statali | Risarcimento danni da atto lecito";
+			$metad="Principio che stabilisce un idennizzo nel caso di atto lecito della Pubblica Amministrazione";
 			break;
 		case "categorie":
 			$cont="categorie";
 			$active2="active";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | Enti pubblici interessati";
+			$metad="Lista di enti pubblici i cui dipendenti sono stati colpiti dal blocco degli aumenti stipendiali e possono partecipare all'iniziativa";
 			break;
 		case "rassegna":
 			$cont="rassegna";
 			$active3="active";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | Rassegna stampa CODACONS";
+			$metad="Rassegna stampa relativa all'iniziativa del Codacons in favore dei dipendenti pubblici contro il blocco degli stipendi";
 			break;
 		case "aderisci":
 			$cont="aderisci";
-			$metat="";
-			$metad="";
+			$metat="Blocco Stipendi Statali | Modulo di adesione";
+			$metad="Modulo di adesione per partecipare all'iniziativa del Codacons in favore dei dipendenti pubblici contro il blocco degli stipendi";
 			break;
 		case "privacy":
 			$cont="privacy";
