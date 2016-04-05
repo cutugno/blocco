@@ -1,6 +1,6 @@
 <?php
 
-	define ('HOME', 'http://192.168.28.8/blocco/');
+	define ('HOME', 'http://bloccostipendi.codacons.it/');
 
 	$active1=$active2=$active3="";
 	$p=isset($_GET['p']) ? $_GET['p'] : "home";
