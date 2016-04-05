@@ -4,9 +4,9 @@
 			<div class="row">
 				<div class="col-sm-2 footer_col">
 					<h4>Condividi</h4>
-					<a href="#"><img class="social" src="<?php echo HOME;?>img/ico_fb.png" alt="Condividi questa pagina su Facebook"></a>
-					<a href="#"><img class="social" src="<?php echo HOME;?>img/ico_tw.png" alt="Condividi questa pagina su Twitter"></a>
-					<a href="mailto:#"><img class="social" src="<?php echo HOME;?>img/ico_mail.png" alt="Condividi questa pagina via mail"></a>
+					<a href="#" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=http://bloccostipendi.codacons.it', 'facebook_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');" target="_blank"><img class="social" src="<?php echo HOME;?>img/ico_fb.png" alt="Condividi questa pagina su Facebook"></a>
+					<a href="#" onclick="window.open('https://twitter.com/share?url=http://bloccostipendi.codacons.it&tags=blocco%20stipendi&text=Aderisci%20all\'azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20della%20Pubblica%20Amministrazione', 'twitter_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');"><img class="social" src="<?php echo HOME;?>img/ico_tw.png" alt="Condividi questa pagina su Twitter"></a>
+					<a target="_blank" href="mailto:?subject=Aderisci%20all'azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20della%20Pubblica%20Amministrazione"><img class="social" src="<?php echo HOME;?>img/ico_mail.png" alt="Condividi questa pagina via mail"></a>
 				</div>
 				<div class="col-sm-2 footer_col">
 					<h4>Contatti</h4>
