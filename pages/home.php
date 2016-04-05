@@ -5,7 +5,7 @@
 					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
 					<p>Il Codacons avvia un'iniziativa in favore dei dipendenti pubblici costretti a subire il blocco degli stipendi dal 2010. L'obiettivo è il rinnovo dei contratti collettivi e un indennizzo/risarcimento non inferiore a 8.800 &euro;</p>
 					<br>
-					<button class="btn btn-aderisci"><a href="<?php echo HOME;?>aderisci"><strong>ADERISCI</strong></a></button>
+					<button class="btn btn-aderisci" onclick="window.open('<?php echo HOME; ?>aderisci','_self');"><strong>ADERISCI</strong></button>
 				</div>
 				<div class="col-md-6 text-right">
 					<div class="embed-responsive embed-responsive-16by9" id="banner_video">
