@@ -1,3 +1,8 @@
+	<?php 
+		$mailsubject="Blocco%20stipendi%20Statali%20%u2013%20aderisci%20all%27iniziativa%20Codacons";
+		$mailbody="Aderisci%20all%27azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20statali%20per%20chiedere%20il%20risarcimento/indennizzo%20ed%20il%20rinnovo%20immediato%20dei%20contratti%20collettivi.%0A%0AScopri%20di%20pi%F9%20http%3A//bloccostipendi.codacons.it";
+	?>
+
 	<div id="scrolltop"><img src="<?php echo HOME; ?>img/scroll_top.png" alt="Clicca qui per tornare sopra" /></div>
 	<footer>
 		<div class="container">
@@ -6,7 +11,7 @@
 					<h4>Condividi</h4>
 					<a href="#" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=http://bloccostipendi.codacons.it', 'facebook_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');" target="_blank"><img class="social" src="<?php echo HOME;?>img/ico_fb.png" alt="Condividi questa pagina su Facebook"></a>
 					<a href="#" onclick="window.open('https://twitter.com/share?url=http://bloccostipendi.codacons.it&tags=blocco%20stipendi&text=Aderisci%20all\'azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20della%20Pubblica%20Amministrazione', 'twitter_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');"><img class="social" src="<?php echo HOME;?>img/ico_tw.png" alt="Condividi questa pagina su Twitter"></a>
-					<a target="_blank" href="mailto:?subject=Aderisci%20all'azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20della%20Pubblica%20Amministrazione"><img class="social" src="<?php echo HOME;?>img/ico_mail.png" alt="Condividi questa pagina via mail"></a>
+					<a target="_blank" href="mailto:?Subject=<?php echo $mailsubject; ?>&Body=<?php echo $mailbody; ?>"><img class="social" src="<?php echo HOME;?>img/ico_mail.png" alt="Condividi questa pagina via mail"></a>
 				</div>
 				<div class="col-sm-2 footer_col">
 					<h4>Contatti</h4>
