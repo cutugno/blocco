@@ -1,6 +1,6 @@
 	<?php 
-		$mailsubject="Blocco%20stipendi%20Statali%20%u2013%20aderisci%20all%27iniziativa%20Codacons";
-		$mailbody="Aderisci%20all%27azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20statali%20per%20chiedere%20il%20risarcimento/indennizzo%20ed%20il%20rinnovo%20immediato%20dei%20contratti%20collettivi.%0A%0AScopri%20di%20pi%F9%20http%3A//bloccostipendi.codacons.it";
+		$mailsubject="Blocco stipendi Statali - aderisci all'iniziativa Codacons";
+		$mailbody="Aderisci%20all%27azione%20collettiva%20di%20CODACONS%20contro%20il%20blocco%20degli%20stipendi%20statali%20per%20chiedere%20il%20risarcimento/indennizzo%20ed%20il%20rinnovo%20immediato%20dei%20contratti%20collettivi.%0A%0AScopri%20di%20più%20http%3A//bloccostipendi.codacons.it";
 	?>
 
 	<div id="scrolltop"><img src="<?php echo HOME; ?>img/scroll_top.png" alt="Clicca qui per tornare sopra" /></div>
