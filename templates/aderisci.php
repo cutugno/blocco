@@ -5,5 +5,5 @@
 					 <strong>Moduli per Ricorso a TAR e Class Action</strong> - documentazione necessaria per aderire alla Class Action e al ricorso TAR promossi da Codacons.<br>
 					 <button class="btn btn-aderisci" onclick="window.open('<?php echo HOME; ?>aderisci','_self');"><strong>ADERISCI</strong></button>
 					 <u><a href="<?php echo HOME;?>categorie-interessate" class="verifica">Verifica gli enti pubblici interessati dal ricorso</a></u><br>
-					 Se sei sei un ex dipendente pubblico (hai cambiato lavoro o sei pensionato) invia una mail a <a href="mailto:info@codacons.it">info@codacons.it</a></p>
+					 Se sei un ex dipendente pubblico (hai cambiato lavoro o sei pensionato) invia una mail a <a href="mailto:info@codacons.it">info@codacons.it</a></p>
 </div>
