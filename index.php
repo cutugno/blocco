@@ -1,7 +1,6 @@
 <?php
 
-	//define ('HOME', 'http://bloccostipendi.codacons.it/');
-	define ('HOME', 'http://blocco.pc/');
+	define ('HOME', 'http://bloccostipendi.codacons.it/');
 
 	$active1=$active2=$active3="";
 	$p=isset($_GET['p']) ? $_GET['p'] : "home";
