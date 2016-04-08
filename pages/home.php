@@ -26,12 +26,13 @@
 					<p class="small">Dal 2010 gli stipendi dei pubblici dipendenti sono fermi: non fruiscono, cioè, dell'adeguamento rispetto all'aumento del costo della vita calcolato in base agli indici ISTAT. Ogni dipendente ministeriale ha perso, in termini di mancato aumento salariale, circa 2.700 euro lordi l'anno.</p>
 					<p class="lead"><strong>Il blocco degli stipendi è incostituzionale</strong></p>
 					<p class="small">La sentenza della Corte Costituzionale n. 178 del 24 giugno 2015 ha stabilito che il blocco dei contratti del pubblico impiego è illegittimo e incostituzionale, ma ha limitato tale illeggittimità solo al periodo successivo alla pubblicazione della sentenza stessa.</p>
+					<img src="<?php echo HOME; ?>img/banner_blocco.gif" alt="Chiama il numero 8930398 ogni mercoledì e venerdì dalle 15 alle 16" class="img-responsive" id="banner_blocco">
 				</div>
 				<div class="col-sm-6">
 					<?php require_once ('templates/aderisci.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->
-			<div class="row" id="main_avvia"> <!-- main blocco 2 -->
+			<div class"row" id="main_avvia"> <!-- main blocco 2 -->
 				<div class="col-xs-12">
 					<h3>GLI OBIETTIVI DELL'AZIONE COLLETTIVA</h3>
 				</div>
