@@ -4,8 +4,8 @@
 	<script src="<?php echo HOME; ?>js/jquery.lockfixed.min.js"></script>	
 	<script src="<?php echo HOME; ?>js/jquery-eu-cookie-law-popup.js"></script>	
 	<!--<script src="<?php echo HOME; ?>js/func.min.js"></script>-->
-	<script src="<?php echo HOME; ?>js/work/scrolltop.js"></script>		
-	<script src="<?php echo HOME; ?>js/work/sticky.js"></script>			
+	<script src="<?php echo HOME; ?>js/scrolltop.js"></script>		
+	<script src="<?php echo HOME; ?>js/sticky.js"></script>			
 	
 </body>
 </html>
