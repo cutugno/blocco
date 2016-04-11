@@ -5,7 +5,13 @@
 	<script src="<?php echo HOME; ?>js/jquery-eu-cookie-law-popup.js"></script>	
 	<!--<script src="<?php echo HOME; ?>js/func.min.js"></script>-->
 	<script src="<?php echo HOME; ?>js/scrolltop.js"></script>		
-	<script src="<?php echo HOME; ?>js/sticky.js"></script>			
+	<script src="<?php echo HOME; ?>js/jquery.sticky.js"></script>			
+	
+	<script>
+	  $(document).ready(function(){
+		$("#sticky_aderisci").sticky({topSpacing:10});
+	  });
+	</script>
 	
 </body>
 </html>

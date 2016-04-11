@@ -1,3 +1,4 @@
+<div id="sticky_anchor"></div>
 <div class="alert alert-aderisci text-center" role="alert" id="sticky_aderisci">
 	<h2>ADERISCI ALL'INIZIATIVA</h2>
 	<p class="small">Se sei un dipendente pubblico puoi aderire all'iniziativa compilando la scheda di adesione online. Riceverai via mail:<br>
