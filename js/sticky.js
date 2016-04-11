@@ -13,7 +13,7 @@ $(function() {
 	}
 });
 
-$(window).scroll(function() {
+$(window).resize(function() {
 	var w=$(window).width();
 	if (w>=768){
 		stick("#sticky_aderisci",10,100);
