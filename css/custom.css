@@ -393,9 +393,8 @@ div.news p.titolo {
 /* template aderisci */
 
 #sticky_aderisci {
-    position: -webkit-sticky;  
-    position: sticky;
-    top: 0; 
+	z-index: 10000;
+	-webkit-overflow-scrolling: touch;
 }   
 
 .alert-aderisci {
