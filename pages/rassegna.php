@@ -17,16 +17,16 @@
 				<div class="col-sm-6 news" id="main_left">
 					<h3>RASSEGNA STAMPA</h3>
 					<br>					
-					<p class="data">21 marzo 2016</p>
-					<p class="titolo"><strong><a href="http://parma.repubblica.it/cronaca/2016/03/21/news/pubblico_impiego_il_tribunale_parma_contro_il_blocco_dei_contratti-135997026/" target="_blank">Pubblico impiego, il tribunale Parma contro il blocco dei contratti</a></strong></p>
-					<p class="data">06 febbraio 2016</p>
-					<p class="titolo"><strong><a href="http://www.lastampa.it/2016/02/06/economia/in-anni-i-dipendenti-comunali-hanno-perso-euro-codacons-si-pu-chiedere-risarcimento-89MbsnbBvTmZWhchMl28WM/pagina.html" target="_blank">In 5 anni i dipendenti comunali hanno perso 740 euro. Codacons: "Si può chiedere risarcimento"</a></strong></p>
-					<p class="data">06 gennaio 2016</p>
-					<p class="titolo"><strong><a href="http://www.agi.it/regioni/abruzzo/2016/01/06/news/dipendenti_pubblici_class_action_codacons_per_blocco_stipendi-394055/" target="_blank">Dipendenti pubblici: class action Codacons per blocco stipendi</a></strong></p>
-					<p class="data">05 gennaio 2015</p>
-					<p class="titolo"><strong><a href="http://www.repubblica.it/ultimora/24ore/statali-codacons-class-action-contro-blocco-stipendi/news-dettaglio/4616445" target="_blank">Statali: Codacons, class action contro blocco stipendi</a></strong></p>
-					<p class="data">20 agosto 2015</p>
-					<p class="titolo"><strong><a href="http://www.ilfattoquotidiano.it/2014/08/20/governo-renzi-allo-studio-nuovo-blocco-a-stipendi-degli-statali-cgil-inaccettabile/1094928/" target="_blank">Governo Renzi, allo studio nuovo blocco a stipendi degli statali. CGIL: "Inaccettabile"</a></strong></p>
+					<p class="data">05 settembre 2016</p>
+					<p class="titolo"><strong><a href="http://www.rovigooggi.it/articolo/2016-09-05/stipendi-fermi-da-anni-maxi-causa-dei-lavoratori/#.WASMvfmLTcs" target="_blank">Stipendi fermi da anni, maxi causa dei lavoratori</a></strong></p>
+					<p class="data">19 agosto 2016</p>
+					<p class="titolo"><strong><a href="http://www.ilgiornale.it/news/politica/grana-statali-renzi-caos-su-blocco-stipendi-1297027.html" target="_blank">Grana statali per Renzi: caos su blocco stipendi</a></strong></p>
+					<p class="data">16 agosto 2016</p>
+					<p class="titolo"><strong><a href="http://www.panorama.it/economia/lavoro/blocco-del-contratto-dei-dipendenti-pubblici-la-resa-dei-conti/" target="_blank">Blocco del contratto dei dipendenti pubblici: la resa dei conti</a></strong></p>
+					<p class="data">16 agosto 2016</p>
+					<p class="titolo"><strong><a href="http://www.repubblica.it/economia/2016/08/16/news/rinnovo_dei_contratti_della_pa_servono_7_miliardi_-146077679/" target="_blank">Sindacati in pressing per rinnovo dei contratti della Pa: "Servono 7 miliardi"</a></strong></p>
+					<p class="data">02 agosto 2016</p>
+					<p class="titolo"><strong><a href="http://www.freeskipper.it/2016/08/statali-blocco-degli-stipendi-codacons.html" target="_blank">Statali, blocco degli stipendi. Codacons ricorre al Tar e chiede: "10.400 euro a ogni lavoratore"</a></strong></p>
 				</div>
 				<div class="col-sm-6">
 					<?php require_once ('templates/aderisci.php'); ?>
