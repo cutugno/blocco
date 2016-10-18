@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
+					<h1>BLOCCO STIPENDI STATALI: PRESENTATO IL PRIMO RICORSO CODACONS</h1>
 				</div>
 			</div>
 		</div>
@@ -29,7 +29,7 @@
 					<p class="titolo"><strong><a href="http://www.freeskipper.it/2016/08/statali-blocco-degli-stipendi-codacons.html" target="_blank">Statali, blocco degli stipendi. Codacons ricorre al Tar e chiede: "10.400 euro a ogni lavoratore"</a></strong></p>
 				</div>
 				<div class="col-sm-6">
-					<?php require_once ('templates/aderisci.php'); ?>
+					<?php require_once ('templates/segui.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->			
 		</div>	

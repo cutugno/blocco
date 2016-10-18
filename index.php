@@ -47,6 +47,11 @@
 			$metat="Blocco Stipendi Statali | Modulo di adesione";
 			$metad="Modulo di adesione per partecipare all'iniziativa del Codacons in favore dei dipendenti pubblici contro il blocco degli stipendi";
 			break;
+		case "scarica":
+			$cont="scarica";
+			$metat="Blocco Stipendi Statali | Modulo per la diffida";
+			$metad="Modulo per la diffida da indirizzare alla P.A. e all'ARAN per chiedere il risarcimento del danno subito con il blocco degli adeguamenti retributivi";
+			break;
 		case "privacy":
 			$cont="privacy";
 			$metat="Blocco Stipendi Statali | campagna promossa da Codacons";

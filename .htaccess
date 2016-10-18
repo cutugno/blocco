@@ -8,5 +8,6 @@ RewriteRule ^presupposti/risarcimento-danni$ index.php?p=rif3
 RewriteRule ^categorie-interessate$ index.php?p=categorie
 RewriteRule ^rassegna-stampa$ index.php?p=rassegna
 RewriteRule ^aderisci$ index.php?p=aderisci
+RewriteRule ^scarica$ index.php?p=scarica
 RewriteRule ^privacy$ index.php?p=privacy
 RewriteRule ^cookie$ index.php?p=cookie [L]
