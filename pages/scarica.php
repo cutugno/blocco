@@ -22,7 +22,8 @@
 					<p class="small">(I campi contrassegnati con l'asterisco <span style="color:red">*</span> sono obbligatori)<br><br>
 					Dopo aver compilato il modulo online e cliccato sul pulsante "INVIA LE INFORMAZIONI" torna sempre sopra ad inizio pagina per confermare i dati e l'invio della mail.
 					</p>
-					<iframe id="form_aderisci" style="height:400px !important" src="http://www.termilcons.net/index.php?pagina=page_publicForm&idForm=467&css=1&access=ok"></iframe>
+					<!--<iframe id="form_aderisci" style="height:400px !important" src="http://www.termilcons.net/index.php?pagina=page_publicForm&idForm=467&css=1&access=ok"></iframe>-->
+					<iframe id="form_aderisci" src="http://www.termilcons.net/index.php?pagina=page_publicForm&idForm=510&css=1&access=ok"></iframe>
 					<p class="small">
 					<strong>Dopo aver compilato il modulo online e cliccato sul pulsante "INVIA LE INFORMAZIONI" torna sempre all'inizio di questa pagina per confermare i dati e l'invio della mail.</strong><br><br>
 					Cliccando su "Invia le informazioni" autorizzi l'ente Ter.Mil.Cons., delegato da CODACONS, al trattamento dei dati personali ex D. Lgs. n. 196/2003 e ss. mm. (leggi <a href="<?php echo HOME; ?>privacy">qui</a> le condizioni generali del trattamento)
