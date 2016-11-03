@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h1>BLOCCO STIPENDI STATALI: PRESENTATO IL PRIMO RICORSO CODACONS</h1>
+					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
 				</div>
 			</div>
 		</div>
@@ -1593,7 +1593,7 @@
 						Veneto Agricoltura 
 						</p>
 						</li><li><p class="small">
-						Veneto Strade
+						Veneto StradePRESENTATO IL PRIMO RICORSO CODACONS
 						S.p.a. 
 						</p>
 						</li><li><p class="small">
@@ -1696,7 +1696,7 @@
 				</ul>
 				</div>
 				<div class="col-sm-6">
-					<?php require_once ('templates/segui.php'); ?>
+					<?php require_once ('templates/aderisci.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->			
 		</div>	

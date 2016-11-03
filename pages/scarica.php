@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h1>BLOCCO STIPENDI STATALI: PRESENTATO IL PRIMO RICORSO CODACONS</h1>
+					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
 				</div>
 			</div>
 		</div>
@@ -15,9 +15,13 @@
 		<div class="container">
 			<div class="row"> <!-- main blocco 1 -->
 				<div class="col-xs-12 aderisci" id="main_left">
-					<h3>Scarica la diffida</h3>
+					<h3>Aderisci</h3>
 					<p class="small">
-					Inserisci i tuoi dati e riceverai gratuitamente la diffida da indirizzare alla P.A. e all'ARAN per chiedere il risarcimento del danno subito con il blocco degli adeguamenti retributivi e l'immediato rinnovo del contratto collettivo di categoria.
+					Inserisci i tuoi dati e riceverai gratuitamente:
+-					<ul>
+-						<li>La diffida da indirizzare alla P.A. e all'ARAN per chiedere il risarcimento del danno subito con il blocco degli adeguamenti retributivi e l'immediato rinnovo del contratto collettivo di categoria.</li>
+-						<li>La modulistica per partecipare al ricorso collettivo al Tar che stiamo promuovendo.</li>
+-					</ul>
 					</p>
 					<p class="small">(I campi contrassegnati con l'asterisco <span style="color:red">*</span> sono obbligatori)<br><br>
 					Dopo aver compilato il modulo online e cliccato sul pulsante "INVIA LE INFORMAZIONI" torna sempre sopra ad inizio pagina per confermare i dati e l'invio della mail.
