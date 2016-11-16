@@ -9,7 +9,8 @@
 				</div>
 				<div class="col-md-6 text-right">
 					<div class="embed-responsive embed-responsive-16by9" id="banner_video">
-						<iframe class="embed-responsive-item" width="530" height="298" src="https://www.youtube.com/embed/RrE_1vAg19Q"></iframe>
+						<!-- <iframe class="embed-responsive-item" width="530" height="298" src="https://www.youtube.com/embed/RrE_1vAg19Q"></iframe> -->
+						<iframe class="embed-responsive-item" width="530" height="298" src="https://www.youtube.com/embed/T18yQ_VfHYk"></iframe>
 					</div>
 				</div>
 			</div>
