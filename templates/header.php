@@ -34,7 +34,7 @@
 					<li><a href="<?php echo HOME;?>presupposti/risarcimento-danni">Risarcimento danni</a></li>					
 				  </ul>
 				</li>
-				<li><a href="<?php echo HOME;?>categorie-interessate" class="<?php echo $active2; ?>">CATEGORIE INTERESSATE</a></li>
+				<!-- <li><a href="<?php echo HOME;?>categorie-interessate" class="<?php echo $active2; ?>">CATEGORIE INTERESSATE</a></li> -->
 				<li><a href="<?php echo HOME;?>rassegna-stampa" class="<?php echo $active3; ?>">RASSEGNA STAMPA</a></li>
 			  </ul>
 			</div><!-- /.navbar-collapse -->

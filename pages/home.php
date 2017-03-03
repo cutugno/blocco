@@ -2,10 +2,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6" id="banner_left">
-					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
-					<p>Il Codacons avvia un'iniziativa in favore dei dipendenti pubblici costretti a subire il blocco degli stipendi dal 2010. L'obiettivo è il rinnovo dei contratti collettivi e un indennizzo/risarcimento non inferiore a 8.800 &euro;</p>
+					<h1>BLOCCO STIPENDI: PARTITA AZIONE CODACONS IN FAVORE DI TUTTI I DIPENDENTI PUBBLICI</h1>
+					<p>Il Codacons ha avviato un'iniziativa in favore dei dipendenti pubblici costretti a subire il blocco degli stipendi dal 2010. L'obiettivo è quello di far ottenere a tutti il rimborso delle somme che gli sarebbero spettate, accresciuti degli interessi legali maturati nel frattempo.</p>
 					<br>
-					<button class="btn btn-aderisci" onclick="window.open('<?php echo HOME; ?>aderisci','_self');"><strong>ADERISCI</strong></button>
+					<button class="btn btn-aderisci" onclick="window.open('<?php echo HOME; ?>segui','_self');"><strong>SEGUI</strong></button>
 				</div>
 				<div class="col-md-6 text-right">
 					<div class="embed-responsive embed-responsive-16by9" id="banner_video">
@@ -29,7 +29,7 @@
 					<p class="small">La sentenza della Corte Costituzionale n. 178 del 24 giugno 2015 ha stabilito che il blocco dei contratti del pubblico impiego è illegittimo e incostituzionale, ma ha limitato tale illeggittimità solo al periodo successivo alla pubblicazione della sentenza stessa.</p>
 				</div>
 				<div class="col-sm-6">
-					<?php require_once ('templates/aderisci.php'); ?>
+					<?php require_once ('templates/segui.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->
 			<div class"row" id="main_avvia"> <!-- main blocco 2 -->

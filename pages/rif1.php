@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h1>BLOCCO STIPENDI STATALI: AL VIA L'AZIONE COLLETTIVA DI CODACONS</h1>
+					<h1>BLOCCO STIPENDI: PARTITA AZIONE CODACONS IN FAVORE DI TUTTI I DIPENDENTI PUBBLICI</h1>
 				</div>
 			</div>
 		</div>
@@ -30,7 +30,7 @@
 					<p class="small"><a href="http://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2015&numero=178" target="_blank">Leggi il testo integrale della sentenza</a> </p>
 				</div>
 				<div class="col-sm-6">
-					<?php require_once ('templates/aderisci.php'); ?>
+					<?php require_once ('templates/segui.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->			
 		</div>	
