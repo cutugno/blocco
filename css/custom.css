@@ -472,6 +472,7 @@ footer .social {
 
 footer .social:first-child {
 	padding-left: 0;
+	margin-left: 0;
 }
 
 footer .xsmall {
