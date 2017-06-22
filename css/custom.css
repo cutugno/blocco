@@ -239,7 +239,7 @@ a.navbar-brand {
 		padding-right: 15px;
 	}
 	
-	#main_left.categorie, #main_left.news, #main_left.aderisci, #main_left.privacy, #main_left.categorie, #main_left.riferimenti {
+	#main_left.categorie, #main_left.news, #main_left.aderisci, #main_left.privacy, #main_left.cookie, #main_left.categorie, #main_left.riferimenti {
 		padding-top: 20px;
 	}
 	
@@ -399,9 +399,6 @@ div.news p.titolo {
 
 .privacy {
 	text-align: justify;
-}
-
-.privacy {
 	margin-bottom: 40px;
 }
 
@@ -418,6 +415,7 @@ div.news p.titolo {
 
 .cookie {
 	text-align: justify;
+	margin-bottom: 40px;
 }
 
 .cookie a {

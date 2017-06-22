@@ -1,12 +1,17 @@
 <?php
 
-	define ('HOME', 'http://bloccostipendi.codacons.it/');
-	//define ('HOME', 'http://blocco.pc/');
+	//define ('HOME', 'http://bloccostipendi.codacons.it/');
+	define ('HOME', 'http://blocco.pc/');
 
 	$active1=$active2=$active3="";
-	$p=isset($_GET['p']) ? $_GET['p'] : "home";
+	$p=isset($_GET['p']) ? $_GET['p'] : "cong";
 
 	switch ($p) {
+		case "cong":
+			$cont="cong";
+			$metat="Blocco Stipendi Statali | campagna promossa da Codacons";
+			$metad="Il Codacons avvia una campagna in favore dei dipendenti pubblici contro il blocco degli stipendi per chiedere il rinnovo dei contratti ed il risarcimento";
+			break;
 		case "home":
 			$cont="home";
 			$metat="Blocco Stipendi Statali | campagna promossa da Codacons";

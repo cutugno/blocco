@@ -14,7 +14,7 @@
 	<div id="main">
 		<div class="container">
 			<div class="row"> <!-- main blocco 1 -->
-				<div class="col-sm-6 cookie" id="main_left">
+				<div class="col-sm-6 col-sm-offset-3 cookie" id="main_left">
 					<h3>Utilizzo dei cookies informatici</h3>
 					<p class="small">
 						La presente informativa sui cookie fornisce una panoramica riassuntiva su come codacons.it utilizza i cookie sui propri siti internet.<br><br>
@@ -39,7 +39,7 @@
 					</p>
 				</div>
 				<div class="col-sm-6">
-					<?php require_once ('templates/segui.php'); ?>
+					<?php // require_once ('templates/segui.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->			
 		</div>	

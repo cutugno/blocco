@@ -14,7 +14,7 @@
 	<div id="main">
 		<div class="container">
 			<div class="row"> <!-- main blocco 1 -->
-				<div class="col-sm-6 privacy" id="main_left">
+				<div class="col-sm-6 privacy col-sm-offset-3" id="main_left">
 					<h3>Informativa sulla Privacy</h3>
 					<p class="small">
 					La presente <em>Privacy Policy</em> ha lo scopo di descrivere le modalità di gestione del sito, in riferimento al trattamento dei dati personali degli utenti/visitatori.<br><br>
@@ -25,7 +25,7 @@
 					</p>
 				</div>
 				<div class="col-sm-6">
-					<?php require_once ('templates/segui.php'); ?>
+					<?php // require_once ('templates/segui.php'); ?>
 				</div>
 			</div><!-- /main blocco 1 -->			
 		</div>	
